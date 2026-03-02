@@ -1,6 +1,6 @@
-# ✈️ FlightFight – Flight Booking Application
+# ✈️ FlightFinder – Flight Booking Application
 
-FlightFight is a full-stack flight booking web application that allows users to search, book, and manage flights through an easy-to-use interface.
+FlightFinder is a full-stack flight booking web application that allows users to search, book, and manage flights through an easy-to-use interface.
 
 ---
 
@@ -38,6 +38,6 @@ FlightFight is a full-stack flight booking web application that allows users to 
 
 ```bash
 git clone https://github.com/yourusername/FlightFight.git
-cd FlightFight
+cd FlightFinder
 ```
 Demo Link:https://drive.google.com/file/d/1xWChhQVA7bLPT1knq8gQsiM61QSMGg4C/view?usp=sharing
