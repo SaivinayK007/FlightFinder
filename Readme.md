@@ -37,7 +37,7 @@ FlightFinder is a full-stack flight booking web application that allows users to
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/FlightFight.git
+git clone https://github.com/SaivinayK007/FlightFinder.git
 cd FlightFinder
 ```
 Demo Link:https://drive.google.com/file/d/1xWChhQVA7bLPT1knq8gQsiM61QSMGg4C/view?usp=sharing
